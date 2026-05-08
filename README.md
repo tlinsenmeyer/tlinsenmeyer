@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tlinsenmeyer
-- 👀 I’m interested in ... Computer Science
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ... Java, Python, Basic
+- 👀 I’m interested in ... Merging HVAC with Data Science
+- 🌱 I’m currently learning ...AI Agents
+- 💞️ I’m looking to collaborate on ... Java, Python, Data Science
 - 📫 How to reach me ... tlinsenmeyer@gmail.com
 
 <!---
